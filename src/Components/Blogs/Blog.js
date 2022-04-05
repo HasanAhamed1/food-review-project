@@ -3,8 +3,15 @@ import React from "react";
 const Blog = () => {
   return (
     <div className="m-14">
-      <div className="border-2">
-        <h2>What is Context API?</h2>
+      <div className="border-2 mt-5 p-5">
+        <h2 className="text-2xl font-bold pb-2">What is Context API?</h2>
+        <p>
+          <b>Context API:</b> We need props to pass data from one component to
+          another component. By Context API we don't need any props to pass data
+          from one component to another component. Context provides a way to
+          pass data through the component tree without having to pass props down
+          manually at every level.
+        </p>
       </div>
       <div className="border-2 mt-5 p-5">
         <h2 className="text-2xl font-bold pb-2">What is Semantic tag?</h2>
