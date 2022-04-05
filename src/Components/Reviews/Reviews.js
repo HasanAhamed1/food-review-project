@@ -3,7 +3,7 @@ import CustomerReviews from '../CustomerReviews/CustomerReviews';
 import useReviews from '../Hooks/useReviews';
 
 const Reviews = () => {
-    const [reviews] = useReviews();
+    const [reviews, setReviews] = useReviews();
     
     return (
         <div className='m-14 pt-10'>
