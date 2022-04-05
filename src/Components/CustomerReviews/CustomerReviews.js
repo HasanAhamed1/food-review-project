@@ -1,5 +1,7 @@
 import React from "react";
 import { StarIcon } from "@heroicons/react/solid";
+
+
 const CustomerReviews = (props) => {
   const { name, comment, img, userImg } = props.review;
   return (
