@@ -3,12 +3,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## YOU CAN FIND
-**Here  we can buy some items. You can add items to the cart. also you have an option to change the opinion**
+**Here  we can find reviews of food.**
 
 ### Tools used:
 - json file
 - DOM
-- CSS
+- Tailwind
+- Heroicons
+- Recharts
+
+### Feature:
+- You can find reviews of different food
+- It helps you to choose ideal one
+- This website provide you customer's thaught
+- You will find a dashboard
 
 ### wanna communicate:
 
